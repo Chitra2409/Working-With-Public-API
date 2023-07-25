@@ -1,0 +1,31 @@
+body{
+    background-color: 	#FFC0CB;
+    margin-top: 30vh;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    width: 60%; /* Set the width of the container to 80% of its parent */
+    margin: 0 auto; /* To center the container horizontally on the page */
+    padding: 20px;
+    border-radius: 20px; 
+    
+}
+#first{
+    align-items: center;
+    background-color:#feeaed ; 
+
+}
+#second{
+    align-items: center;
+    background-color:#ebebeb ; 
+
+}
+#third{
+    align-items: center;
+    background-color:#ebebeb ; 
+
+}
+

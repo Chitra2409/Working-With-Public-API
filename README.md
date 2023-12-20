@@ -44,5 +44,5 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 
 ---
-Thank you for checking out our JokeAPI website! We hope you enjoy the jokes and have fun exploring the project. If you have any questions or feedback, please don't hesitate to get in touch. Happy coding!
+Thank you for checking out our JokeAPI website! We hope you enjoy the jokes and have fun exploring the project. If you have any questions or feedback, please don't hesitate to get in touch. Happy coding!!
 
